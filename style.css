@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    outline: none;
+}
+.formulario{
+    font-family: 'Syne Mono', monospace;
+    text-align: center;
+    background-color: rgb(90, 69, 128);
+    height: 50vh;
+}
+.lottie{
+    background-color:rgb(151, 81, 14);
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
